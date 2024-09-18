@@ -54,6 +54,8 @@ function startGame() {
     setTimeout(createFood, 200);
 }
 
+
+
 function respawn() {
 
 var start_coord_x = Math.floor(FIELD_SIZE_X / 2);
@@ -214,6 +216,10 @@ function refreshGame() {
 
 // Инициализация
 window.onload = init;
+
+
+
+
 
 
 
