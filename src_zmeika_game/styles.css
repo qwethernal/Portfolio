@@ -11,6 +11,20 @@
     float: Left;
     margin-right: 10px;
 }
+
+#exit{
+    width: 75px;
+    padding: 15px;
+    color: white;
+    background-color:grey;
+    text-align: center;
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+    position: absolute;
+    left: 600px;
+    top: 30px;
+}
 .game-table{
     border-collapse: collapse;
     background-color: #4e4e4e;
