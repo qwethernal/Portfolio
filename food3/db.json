@@ -1,0 +1,39 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Menüü 'Fitness'",
+      "descr": "Menüü 'Fitness' - see on uus lähenemine roogade valmistamisele: rohkem värskeid köögivilju ja puuvilju. Sobib aktiivsetele ja tervislikele inimestele. See on täiesti uus toode optimaalse hinna ja kõrge kvaliteediga!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Menüü 'Paast'",
+      "descr": "Menüü 'Paast' - hoolikalt valitud koostisosad: täielik loomsete toodete puudumine, mandli-, kaera-, kookos- või tatrapiim, õige valgukogus tofu ja imporditud taimetoidusteikide abil.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menüü 'Premium'",
+      "descr": "Menüüs 'Premium' kasutame mitte ainult ilusat pakendi kujundust, vaid ka kvaliteetset toidu valmistamist. Punane kala, mereannid, puuviljad - restorani menüü ilma restorani külastamata!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "Artjom",
+      "phone": "58319143",
+      "time": "19:00",
+      "id": 1
+    },
+    {
+      "name": "TEST",
+      "phone": "123",
+      "time": "12:00",
+      "id": 2
+    }
+  ]
+}
